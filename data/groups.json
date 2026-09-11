@@ -1,16 +1,16 @@
 [
   {
     "id": "design-systems-figma-component-hub-reddit-1",
-    "title": "r/CryptoCurrency Global Hub",
+    "title": "r/FigmaDesign Component Architecture",
     "platform": "Reddit",
-    "category": "Cryptocurrency",
-    "memberCount": "8,200,000+ members",
-    "description": "The largest cryptocurrency community in the world for market news, tokenomics analysis, and blockchain developments.",
-    "joinUrl": "https://www.reddit.com/r/CryptoCurrency/",
+    "category": "Figma & Design Systems",
+    "memberCount": "130,000+ members",
+    "description": "Auto-layout 5.0 constraints, variable modes, component properties, design tokens, and Figma plugins.",
+    "joinUrl": "https://www.reddit.com/r/FigmaDesign/",
     "tags": [
-      "crypto",
-      "blockchain",
-      "bitcoin",
+      "figma",
+      "design-systems",
+      "components",
       "reddit"
     ],
     "verified": true,
@@ -18,16 +18,16 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-2",
-    "title": "r/ethereum Developers & Tech",
+    "title": "r/UI_UX Interface Design",
     "platform": "Reddit",
-    "category": "Smart Contracts",
-    "memberCount": "3,400,000+ members",
-    "description": "Subreddit focused on Ethereum network upgrades, Layer 2 rollups, EVM smart contracts, and proof-of-stake economics.",
-    "joinUrl": "https://www.reddit.com/r/ethereum/",
+    "category": "UI/UX Design",
+    "memberCount": "140,000+ members",
+    "description": "Visual hierarchy, micro-interactions, responsive grid systems, and high-fidelity interface wireframes.",
+    "joinUrl": "https://www.reddit.com/r/UI_UX/",
     "tags": [
-      "ethereum",
-      "smart-contracts",
-      "evm",
+      "ui",
+      "ux",
+      "interface",
       "reddit"
     ],
     "verified": true,
@@ -35,16 +35,16 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-3",
-    "title": "r/defi Decentralized Finance",
+    "title": "r/userexperience Research & Strategy",
     "platform": "Reddit",
-    "category": "DeFi Alpha",
-    "memberCount": "180,000+ members",
-    "description": "Community dedicated to yield farming, automated market makers (AMMs), lending protocols, and liquidity pools.",
-    "joinUrl": "https://www.reddit.com/r/defi/",
+    "category": "User Experience",
+    "memberCount": "210,000+ members",
+    "description": "Usability testing protocols, journey mapping, cognitive heuristics, and user interview synthesis.",
+    "joinUrl": "https://www.reddit.com/r/userexperience/",
     "tags": [
-      "defi",
-      "yield",
-      "liquidity",
+      "ux",
+      "research",
+      "usability",
       "reddit"
     ],
     "verified": true,
@@ -52,101 +52,100 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-4",
-    "title": "r/solana High Throughput",
+    "title": "r/webdesign Visual Web Crafts",
     "platform": "Reddit",
-    "category": "Layer 1 Blockchain",
-    "memberCount": "310,000+ members",
-    "description": "Subreddit covering Solana ecosystem speed, Rust smart contracts, decentralized apps, and validator infrastructure.",
-    "joinUrl": "https://www.reddit.com/r/solana/",
+    "category": "Web Design",
+    "memberCount": "720,000+ members",
+    "description": "Modern website layouts, CSS grid frameworks, typography pairings, and visual design trends.",
+    "joinUrl": "https://www.reddit.com/r/webdesign/",
     "tags": [
-      "solana",
-      "rust",
-      "layer1",
+      "webdesign",
+      "css",
+      "layout",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-discord-5",
-    "title": "Ethereum Official Discord",
-    "platform": "Discord",
-    "category": "Web3 & Blockchain",
-    "memberCount": "180,000+ members",
-    "description": "Community server connecting core developers, Solidity researchers, and decentralized application creators.",
-    "joinUrl": "https://discord.gg/ethereum",
+    "id": "design-systems-figma-component-hub-reddit-5",
+    "title": "r/interactiondesign Motion & Flows",
+    "platform": "Reddit",
+    "category": "Interaction Design",
+    "memberCount": "48,000+ members",
+    "description": "Affordances, state transitions, motion timing functions, and cognitive ergonomic patterns.",
+    "joinUrl": "https://www.reddit.com/r/interactiondesign/",
     "tags": [
-      "ethereum",
-      "web3",
-      "solidity",
-      "discord"
+      "interaction",
+      "motion",
+      "ergonomics",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-discord-6",
-    "title": "Solana Community Discord",
-    "platform": "Discord",
-    "category": "Layer 1 Blockchain",
-    "memberCount": "150,000+ members",
-    "description": "Real-time hub for Solana developers building high-throughput decentralized protocols and Web3 games.",
-    "joinUrl": "https://discord.gg/solana",
+    "id": "design-systems-figma-component-hub-reddit-6",
+    "title": "r/graphic_design Visual Systems",
+    "platform": "Reddit",
+    "category": "Graphic Design",
+    "memberCount": "1,600,000+ members",
+    "description": "Brand identity guidelines, color theory, iconography sets, and editorial grid systems.",
+    "joinUrl": "https://www.reddit.com/r/graphic_design/",
     "tags": [
-      "solana",
-      "web3",
-      "anchor",
-      "discord"
+      "graphic-design",
+      "branding",
+      "color",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-telegram-7",
-    "title": "Crypto News & Alpha Channel",
-    "platform": "Telegram",
-    "category": "Crypto Alpha",
-    "memberCount": "160,000+ members",
-    "description": "Real-time market updates, on-chain whale alerts, token listings, and protocol governance votes.",
-    "joinUrl": "https://t.me/cryptonews",
+    "id": "design-systems-figma-component-hub-reddit-7",
+    "title": "r/Design Creative Masterminds",
+    "platform": "Reddit",
+    "category": "General Design",
+    "memberCount": "2,400,000+ members",
+    "description": "Cross-disciplinary design philosophy, industrial minimalism, and timeless aesthetic execution.",
+    "joinUrl": "https://www.reddit.com/r/Design/",
     "tags": [
-      "crypto",
-      "telegram",
-      "news",
-      "alpha"
+      "design",
+      "aesthetics",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-forum-8",
-    "title": "Ethereum Research Forum",
-    "platform": "Forum",
-    "category": "Cryptographic Research",
-    "memberCount": "80,000+ members",
-    "description": "The premier intellectual forum for Ethereum cryptoeconomics, zero-knowledge proofs, and scaling proposals.",
-    "joinUrl": "https://ethresear.ch",
+    "id": "design-systems-figma-component-hub-reddit-8",
+    "title": "r/frontend Design Engineering",
+    "platform": "Reddit",
+    "category": "Design Implementation",
+    "memberCount": "410,000+ members",
+    "description": "Translating Figma specs into React/Tailwind code, responsive container queries, and CSS variables.",
+    "joinUrl": "https://www.reddit.com/r/frontend/",
     "tags": [
-      "ethereum",
-      "forum",
-      "cryptography",
-      "research"
+      "frontend",
+      "css",
+      "react",
+      "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-9",
-    "title": "r/investing Long Term Wealth",
+    "title": "r/css Cascading Style Sheets",
     "platform": "Reddit",
-    "category": "Investing",
-    "memberCount": "2,600,000+ members",
-    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
+    "category": "CSS Architecture",
+    "memberCount": "160,000+ members",
+    "description": "Modern CSS features, subgrid, cascade layers (@layer), flexbox alignment, and animation keyframes.",
+    "joinUrl": "https://www.reddit.com/r/css/",
     "tags": [
-      "investing",
-      "stocks",
-      "wealth",
+      "css",
+      "styling",
+      "web",
       "reddit"
     ],
     "verified": true,
@@ -154,16 +153,16 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-10",
-    "title": "r/stocks Market News",
+    "title": "r/typography Type & Font Systems",
     "platform": "Reddit",
-    "category": "Stock Market",
-    "memberCount": "6,400,000+ members",
-    "description": "Real-time market discussions, earnings reports, analyst ratings, and macroeconomic trends.",
-    "joinUrl": "https://www.reddit.com/r/stocks/",
+    "category": "Typography",
+    "memberCount": "95,000+ members",
+    "description": "Variable fonts, optical sizing, baseline grids, modular scales, and international font legibility.",
+    "joinUrl": "https://www.reddit.com/r/typography/",
     "tags": [
-      "stocks",
-      "wall-street",
-      "earnings",
+      "typography",
+      "fonts",
+      "legibility",
       "reddit"
     ],
     "verified": true,
@@ -171,16 +170,16 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-11",
-    "title": "r/personalfinance Money Management",
+    "title": "r/accessibility Inclusive Design",
     "platform": "Reddit",
-    "category": "Personal Finance",
-    "memberCount": "19,000,000+ members",
-    "description": "The world's largest personal finance community covering budgeting, high-yield cash, 401(k)s, and tax efficiency.",
-    "joinUrl": "https://www.reddit.com/r/personalfinance/",
+    "category": "Accessibility & A11y",
+    "memberCount": "24,000+ members",
+    "description": "WCAG 2.2 AA compliance, color contrast ratios, screen reader navigation, and keyboard focus states.",
+    "joinUrl": "https://www.reddit.com/r/accessibility/",
     "tags": [
-      "personal-finance",
-      "budgeting",
-      "savings",
+      "a11y",
+      "wcag",
+      "accessibility",
       "reddit"
     ],
     "verified": true,
@@ -188,16 +187,16 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-12",
-    "title": "r/financialindependence FIRE Hub",
+    "title": "r/ProductManagement Product Alignment",
     "platform": "Reddit",
-    "category": "Financial Independence",
-    "memberCount": "2,200,000+ members",
-    "description": "Community dedicated to Financial Independence, Retire Early (FIRE) strategies, safe withdrawal rates, and frugality.",
-    "joinUrl": "https://www.reddit.com/r/financialindependence/",
+    "category": "Product Strategy",
+    "memberCount": "290,000+ members",
+    "description": "Collaborative handoff between product managers and design leads, feature roadmaps, and PRD specs.",
+    "joinUrl": "https://www.reddit.com/r/ProductManagement/",
     "tags": [
-      "fire",
-      "retirement",
-      "investing",
+      "product",
+      "strategy",
+      "handoff",
       "reddit"
     ],
     "verified": true,
@@ -205,16 +204,16 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-13",
-    "title": "r/wallstreetbets Alpha & Options",
+    "title": "r/UXDesign Professional Practice",
     "platform": "Reddit",
-    "category": "Trading",
-    "memberCount": "16,500,000+ members",
-    "description": "High-volatility trading discussions, market momentum plays, options strategies, and viral retail sentiment.",
-    "joinUrl": "https://www.reddit.com/r/wallstreetbets/",
+    "category": "UX Careers",
+    "memberCount": "180,000+ members",
+    "description": "Design critiques, portfolio presentation strategies, design system ROI, and enterprise design governance.",
+    "joinUrl": "https://www.reddit.com/r/UXDesign/",
     "tags": [
-      "wsb",
-      "trading",
-      "options",
+      "ux",
+      "careers",
+      "design-systems",
       "reddit"
     ],
     "verified": true,
@@ -222,289 +221,274 @@
   },
   {
     "id": "design-systems-figma-component-hub-reddit-14",
-    "title": "r/realestateinvesting Wealth Hub",
+    "title": "r/DesignSystems Design Token Ops",
     "platform": "Reddit",
-    "category": "Real Estate",
-    "memberCount": "540,000+ members",
-    "description": "Strategies for rental property acquisition, BRRRR method, commercial syndication, and 1031 tax exchanges.",
-    "joinUrl": "https://www.reddit.com/r/realestateinvesting/",
+    "category": "Design Systems",
+    "memberCount": "22,000+ members",
+    "description": "Multi-brand design token synchronization, Figma-to-code pipelines (Style Dictionary), and versioning.",
+    "joinUrl": "https://www.reddit.com/r/DesignSystems/",
     "tags": [
-      "real-estate",
-      "syndications",
-      "investing",
+      "design-systems",
+      "tokens",
+      "architecture",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-discord-15",
-    "title": "Stock Market Discord Hub",
-    "platform": "Discord",
-    "category": "Trading & Stocks",
-    "memberCount": "110,000+ members",
-    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
-    "joinUrl": "https://discord.gg/stocks",
-    "tags": [
-      "stocks",
-      "trading",
-      "discord",
-      "market"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-telegram-16",
-    "title": "Bloomberg Market Feed Channel",
-    "platform": "Telegram",
-    "category": "Market News",
-    "memberCount": "140,000+ members",
-    "description": "Rapid market headlines, Federal Reserve rate decisions, treasury yields, and global commodity moves.",
-    "joinUrl": "https://t.me/bloomberg",
-    "tags": [
-      "bloomberg",
-      "macro",
-      "telegram",
-      "news"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-forum-17",
-    "title": "Bogleheads Forum Community",
-    "platform": "Forum",
-    "category": "Passive Investing",
-    "memberCount": "250,000+ members",
-    "description": "The gold standard forum for passive indexing, low-cost asset allocation, and Jack Bogle's investing philosophy.",
-    "joinUrl": "https://bogleheads.org/forum/",
-    "tags": [
-      "bogleheads",
-      "indexing",
-      "forum",
-      "passive-investing"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-forum-18",
-    "title": "BiggerPockets Real Estate Forum",
-    "platform": "Forum",
-    "category": "Real Estate",
-    "memberCount": "2,000,000+ members",
-    "description": "The definitive online community for real estate investors, syndicators, wholesalers, and property managers.",
-    "joinUrl": "https://www.biggerpockets.com/forums",
-    "tags": [
-      "biggerpockets",
-      "real-estate",
-      "forum",
-      "wholesaling"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-19",
-    "title": "r/Python Developer Community",
+    "id": "design-systems-figma-component-hub-reddit-15",
+    "title": "r/UserExperienceDesign UX Crafts",
     "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
+    "category": "UX Methodology",
+    "memberCount": "65,000+ members",
+    "description": "Card sorting experiments, tree testing, information architecture, and microcopy usability.",
+    "joinUrl": "https://www.reddit.com/r/UserExperienceDesign/",
     "tags": [
-      "python",
-      "backend",
-      "software-engineering",
+      "ux",
+      "architecture",
+      "testing",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-discord-20",
-    "title": "Python Official Discord",
+    "id": "design-systems-figma-component-hub-discord-16",
+    "title": "Figma Community Discord",
     "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://discord.gg/python",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-telegram-21",
-    "title": "Python Developers Telegram Channel",
-    "platform": "Telegram",
-    "category": "Python Development",
+    "category": "Figma Builders",
     "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
+    "description": "The primary Discord server for Figma power users, plugin developers, and widget creators.",
+    "joinUrl": "https://discord.gg/figma",
     "tags": [
-      "python",
-      "telegram",
-      "scripts",
-      "tips"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-22",
-    "title": "r/programming International",
-    "platform": "Reddit",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
-    "tags": [
-      "programming",
-      "engineering",
-      "industry",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-discord-23",
-    "title": "The Programmer's Hangout",
-    "platform": "Discord",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/programming",
-    "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-24",
-    "title": "r/rust Systems Programming",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
-    "tags": [
-      "rust",
-      "systems",
-      "concurrency",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-discord-25",
-    "title": "Rust Programming Language Discord",
-    "platform": "Discord",
-    "category": "Systems Programming",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
-    "joinUrl": "https://discord.gg/rust-lang",
-    "tags": [
-      "rust",
-      "systems",
-      "discord",
-      "compiler"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-telegram-26",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
-    "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-27",
-    "title": "r/javascript Global Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
-    "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-discord-28",
-    "title": "Reactiflux Discord Community",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://discord.gg/reactiflux",
-    "tags": [
-      "react",
-      "frontend",
-      "javascript",
+      "figma",
+      "plugins",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-telegram-29",
-    "title": "Web Developers Network",
-    "platform": "Telegram",
-    "category": "Web Development",
+    "id": "design-systems-figma-component-hub-discord-17",
+    "title": "Design Buddies Global Discord",
+    "platform": "Discord",
+    "category": "Design Community",
     "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
-    "joinUrl": "https://t.me/webdev_hub",
+    "description": "Inclusive global design community hosting workshops, portfolio reviews, and design system events.",
+    "joinUrl": "https://discord.gg/designbuddies",
     "tags": [
-      "webdev",
-      "frontend",
-      "telegram",
-      "tooling"
+      "design",
+      "portfolio",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "design-systems-figma-component-hub-reddit-30",
-    "title": "r/golang Backend Hub",
-    "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
+    "id": "design-systems-figma-component-hub-discord-18",
+    "title": "UI/UX Designers Discord",
+    "platform": "Discord",
+    "category": "Interface Design",
+    "memberCount": "52,000+ members",
+    "description": "Critique channels, prototyping tips in ProtoPie and Figma, and accessibility discussions.",
+    "joinUrl": "https://discord.gg/uiux",
     "tags": [
-      "golang",
-      "backend",
-      "concurrency",
-      "reddit"
+      "uiux",
+      "prototyping",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-discord-19",
+    "title": "Frontend & UI Engineering Discord",
+    "platform": "Discord",
+    "category": "Design to Code",
+    "memberCount": "46,000+ members",
+    "description": "Collaborative server bridging the gap between Figma design systems and React component libraries.",
+    "joinUrl": "https://discord.gg/frontend",
+    "tags": [
+      "frontend",
+      "react",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-discord-20",
+    "title": "Web Design Mastermind Discord",
+    "platform": "Discord",
+    "category": "Web Aesthetics",
+    "memberCount": "38,000+ members",
+    "description": "Responsive layout design, typography scaling, 3D web graphics, and micro-interaction polish.",
+    "joinUrl": "https://discord.gg/webdesign",
+    "tags": [
+      "webdesign",
+      "layout",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-discord-21",
+    "title": "Graphic Designers Lounge Discord",
+    "platform": "Discord",
+    "category": "Visual Identity",
+    "memberCount": "41,000+ members",
+    "description": "Branding projects, vector illustration critiques, color palettes, and typographic exploration.",
+    "joinUrl": "https://discord.gg/graphicdesign",
+    "tags": [
+      "graphic-design",
+      "branding",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-discord-22",
+    "title": "Product Designers Club Discord",
+    "platform": "Discord",
+    "category": "Product UX",
+    "memberCount": "35,000+ members",
+    "description": "Enterprise product design discussions, user flow diagrams, and complex dashboard architectures.",
+    "joinUrl": "https://discord.gg/productdesign",
+    "tags": [
+      "product-design",
+      "enterprise",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-telegram-23",
+    "title": "UI/UX Designers Telegram",
+    "platform": "Telegram",
+    "category": "Design Inspiration",
+    "memberCount": "58,000+ members",
+    "description": "Daily UI animation reels, component breakdown case studies, and design system updates.",
+    "joinUrl": "https://t.me/uiux",
+    "tags": [
+      "uiux",
+      "inspiration",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-telegram-24",
+    "title": "Figma Power Users Telegram",
+    "platform": "Telegram",
+    "category": "Figma News",
+    "memberCount": "44,000+ members",
+    "description": "Figma feature updates, community UI kits, shortcuts, and component library tutorials.",
+    "joinUrl": "https://t.me/figma",
+    "tags": [
+      "figma",
+      "tutorials",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-telegram-25",
+    "title": "Web Design Trends Telegram",
+    "platform": "Telegram",
+    "category": "Web Design News",
+    "memberCount": "36,000+ members",
+    "description": "Curated modern websites, award-winning CSS interactions, and visual layout breakdowns.",
+    "joinUrl": "https://t.me/webdesign",
+    "tags": [
+      "webdesign",
+      "trends",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-telegram-26",
+    "title": "Mobile UI Patterns Telegram",
+    "platform": "Telegram",
+    "category": "Mobile Design",
+    "memberCount": "32,000+ members",
+    "description": "iOS Human Interface Guidelines, Material 3 specs, and tactile mobile micro-interactions.",
+    "joinUrl": "https://t.me/mobileui",
+    "tags": [
+      "mobile",
+      "ios",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-forum-27",
+    "title": "Figma Official Forum",
+    "platform": "Forum",
+    "category": "Design Tool Forum",
+    "memberCount": "220,000+ members",
+    "description": "Official forum for feature requests, bug reports, API development, and design token integration.",
+    "joinUrl": "https://forum.figma.com",
+    "tags": [
+      "figma",
+      "official",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-forum-28",
+    "title": "Designer News Collective",
+    "platform": "Forum",
+    "category": "Design News",
+    "memberCount": "85,000+ members",
+    "description": "Community-curated news on product launches, typography trends, and design industry insights.",
+    "joinUrl": "https://www.designernews.co",
+    "tags": [
+      "designernews",
+      "curation",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-forum-29",
+    "title": "Dribbble Design Stories",
+    "platform": "Forum",
+    "category": "Visual Portfolio",
+    "memberCount": "950,000+ members",
+    "description": "In-depth articles and discussions on branding case studies, animation breakdowns, and interface polish.",
+    "joinUrl": "https://dribbble.com/stories",
+    "tags": [
+      "dribbble",
+      "stories",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "design-systems-figma-component-hub-forum-30",
+    "title": "Behance Curated Galleries",
+    "platform": "Forum",
+    "category": "Creative Showcase",
+    "memberCount": "1,200,000+ members",
+    "description": "World-class graphic design, typography showcase, brand identity systems, and UI case studies.",
+    "joinUrl": "https://www.behance.net/galleries",
+    "tags": [
+      "behance",
+      "galleries",
+      "forum"
     ],
     "verified": true,
     "featured": false
