@@ -1,5 +1,24 @@
 [
   {
+    "id": "ui-ux-design-systems-hub-reddit-20260913-1",
+    "title": "r/technology World News",
+    "platform": "Reddit",
+    "category": "Tech News",
+    "memberCount": "14,000,000+ members",
+    "description": "A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.",
+    "joinUrl": "https://www.reddit.com/r/technology/",
+    "tags": [
+      "technology",
+      "news",
+      "industry",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "id": "design-systems-figma-component-hub-reddit-1",
     "title": "r/FigmaDesign Component Architecture",
     "platform": "Reddit",
@@ -14,7 +33,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-2",
@@ -31,7 +51,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-3",
@@ -48,7 +69,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-4",
@@ -65,7 +87,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-5",
@@ -82,7 +105,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-6",
@@ -99,7 +123,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-7",
@@ -115,7 +140,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-8",
@@ -132,7 +158,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-9",
@@ -149,7 +176,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-10",
@@ -166,7 +194,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-11",
@@ -183,7 +212,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-12",
@@ -200,7 +230,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-13",
@@ -217,7 +248,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-14",
@@ -234,7 +266,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-15",
@@ -251,7 +284,8 @@
       "reddit"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-discord-16",
@@ -267,7 +301,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-discord-17",
@@ -283,7 +318,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-discord-18",
@@ -299,7 +335,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-discord-19",
@@ -315,7 +352,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-discord-20",
@@ -331,7 +369,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-discord-21",
@@ -347,7 +386,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-discord-22",
@@ -363,7 +403,8 @@
       "discord"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-telegram-23",
@@ -379,7 +420,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-telegram-24",
@@ -395,7 +437,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-telegram-25",
@@ -411,7 +454,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-telegram-26",
@@ -427,7 +471,8 @@
       "telegram"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-forum-27",
@@ -443,7 +488,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-forum-28",
@@ -459,7 +505,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-forum-29",
@@ -475,7 +522,8 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-forum-30",
@@ -491,6 +539,7 @@
       "forum"
     ],
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
