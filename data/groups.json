@@ -1,17 +1,17 @@
 [
   {
-    "id": "ui-ux-design-systems-hub-telegram-20260915-1",
-    "title": "TechCrunch Official Channel",
-    "platform": "Telegram",
-    "category": "Tech News",
-    "memberCount": "110,000+ members",
-    "description": "Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.",
-    "joinUrl": "https://t.me/techcrunch",
+    "id": "ui-ux-design-systems-hub-discord-20260915-1",
+    "title": "Figma Official Community Discord",
+    "platform": "Discord",
+    "category": "Design Systems",
+    "memberCount": "195,000+ members",
+    "description": "The official Discord community for UI/UX product designers, Figma variables, auto-layout mastery, WCAG accessibility, and design tokens.",
+    "joinUrl": "https://discord.gg/figma",
     "tags": [
-      "techcrunch",
-      "telegram",
-      "news",
-      "startups"
+      "figma",
+      "design-systems",
+      "ui-ux",
+      "discord"
     ],
     "verified": true,
     "featured": true,
@@ -358,23 +358,6 @@
       "architecture",
       "testing",
       "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "design-systems-figma-component-hub-discord-16",
-    "title": "Figma Community Discord",
-    "platform": "Discord",
-    "category": "Figma Builders",
-    "memberCount": "85,000+ members",
-    "description": "The primary Discord server for Figma power users, plugin developers, and widget creators.",
-    "joinUrl": "https://discord.gg/figma",
-    "tags": [
-      "figma",
-      "plugins",
-      "discord"
     ],
     "verified": true,
     "featured": false,
