@@ -4,10 +4,17 @@
     <title>Design Systems &amp; Figma Component Hub</title>
     <link>https://ui-ux-design-systems-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 06:03:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:04:52 GMT</lastBuildDate>
     <atom:link href="https://ui-ux-design-systems-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                    <item>
+                                        <item>
+      <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
+      <link>https://www.reddit.com/r/Python/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-reddit-20260920-1-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:04:52 GMT</pubDate>
+      <description>Newly verified community added to Design Systems &amp; Figma Component Hub: The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-forum-20260919-1-2026-09-19</guid>
