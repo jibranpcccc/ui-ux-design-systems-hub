@@ -4,10 +4,17 @@
     <title>Design Systems &amp; Figma Component Hub</title>
     <link>https://ui-ux-design-systems-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:03:37 GMT</lastBuildDate>
     <atom:link href="https://ui-ux-design-systems-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-github-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:03:37 GMT</pubDate>
+      <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
       <link>https://users.rust-lang.org</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-github-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-telegram-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:17:26 GMT</pubDate>
       <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Figma Official Community Discord (Discord)</title>
-      <link>https://discord.gg/figma</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-discord-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
-      <description>Newly verified community added to Ui Ux Design Systems Hub: The official Discord community for UI/UX product designers, Figma variables, auto-layout mastery, WCAG accessibility, and design tokens.</description>
     </item>
   </channel>
 </rss>
