@@ -4,10 +4,17 @@
     <title>Design Systems &amp; Figma Component Hub</title>
     <link>https://ui-ux-design-systems-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:03:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:48:01 GMT</lastBuildDate>
     <atom:link href="https://ui-ux-design-systems-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                            <item>
+                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-forum-20261020-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:48:01 GMT</pubDate>
+      <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-forum-20261020-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-discord-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:03:31 GMT</pubDate>
       <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/rust Systems Programming (Reddit)</title>
-      <link>https://www.reddit.com/r/rust/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-reddit-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:03:34 GMT</pubDate>
-      <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.</description>
     </item>
   </channel>
 </rss>
