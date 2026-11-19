@@ -1,5 +1,24 @@
 [
   {
+    "id": "design-systems-figma-component-hub-reddit-2",
+    "title": "r/UI_UX Interface Design",
+    "platform": "Reddit",
+    "category": "UI/UX Design",
+    "memberCount": "140,000+ members",
+    "description": "Visual hierarchy, micro-interactions, responsive grid systems, and high-fidelity interface wireframes.",
+    "joinUrl": "https://www.reddit.com/r/UI_UX/",
+    "tags": [
+      "ui",
+      "ux",
+      "interface",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "design-systems-figma-component-hub-reddit-1",
     "title": "r/FigmaDesign Component Architecture",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -625,24 +644,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-2",
-    "title": "r/UI_UX Interface Design",
-    "platform": "Reddit",
-    "category": "UI/UX Design",
-    "memberCount": "140,000+ members",
-    "description": "Visual hierarchy, micro-interactions, responsive grid systems, and high-fidelity interface wireframes.",
-    "joinUrl": "https://www.reddit.com/r/UI_UX/",
-    "tags": [
-      "ui",
-      "ux",
-      "interface",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-3",
