@@ -1,5 +1,24 @@
 [
   {
+    "id": "design-systems-figma-component-hub-reddit-6",
+    "title": "r/graphic_design Visual Systems",
+    "platform": "Reddit",
+    "category": "Graphic Design",
+    "memberCount": "1,600,000+ members",
+    "description": "Brand identity guidelines, color theory, iconography sets, and editorial grid systems.",
+    "joinUrl": "https://www.reddit.com/r/graphic_design/",
+    "tags": [
+      "graphic-design",
+      "branding",
+      "color",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-23"
+  },
+  {
     "id": "design-systems-figma-component-hub-reddit-5",
     "title": "r/interactiondesign Motion & Flows",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -701,24 +720,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-6",
-    "title": "r/graphic_design Visual Systems",
-    "platform": "Reddit",
-    "category": "Graphic Design",
-    "memberCount": "1,600,000+ members",
-    "description": "Brand identity guidelines, color theory, iconography sets, and editorial grid systems.",
-    "joinUrl": "https://www.reddit.com/r/graphic_design/",
-    "tags": [
-      "graphic-design",
-      "branding",
-      "color",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-7",
