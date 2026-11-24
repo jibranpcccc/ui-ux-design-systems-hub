@@ -1,5 +1,23 @@
 [
   {
+    "id": "design-systems-figma-component-hub-reddit-7",
+    "title": "r/Design Creative Masterminds",
+    "platform": "Reddit",
+    "category": "General Design",
+    "memberCount": "2,400,000+ members",
+    "description": "Cross-disciplinary design philosophy, industrial minimalism, and timeless aesthetic execution.",
+    "joinUrl": "https://www.reddit.com/r/Design/",
+    "tags": [
+      "design",
+      "aesthetics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "design-systems-figma-component-hub-reddit-6",
     "title": "r/graphic_design Visual Systems",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -720,23 +738,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-7",
-    "title": "r/Design Creative Masterminds",
-    "platform": "Reddit",
-    "category": "General Design",
-    "memberCount": "2,400,000+ members",
-    "description": "Cross-disciplinary design philosophy, industrial minimalism, and timeless aesthetic execution.",
-    "joinUrl": "https://www.reddit.com/r/Design/",
-    "tags": [
-      "design",
-      "aesthetics",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-8",
