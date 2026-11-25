@@ -1,5 +1,24 @@
 [
   {
+    "id": "design-systems-figma-component-hub-reddit-8",
+    "title": "r/frontend Design Engineering",
+    "platform": "Reddit",
+    "category": "Design Implementation",
+    "memberCount": "410,000+ members",
+    "description": "Translating Figma specs into React/Tailwind code, responsive container queries, and CSS variables.",
+    "joinUrl": "https://www.reddit.com/r/frontend/",
+    "tags": [
+      "frontend",
+      "css",
+      "react",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "design-systems-figma-component-hub-reddit-7",
     "title": "r/Design Creative Masterminds",
     "platform": "Reddit",
@@ -14,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -738,24 +757,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "design-systems-figma-component-hub-reddit-8",
-    "title": "r/frontend Design Engineering",
-    "platform": "Reddit",
-    "category": "Design Implementation",
-    "memberCount": "410,000+ members",
-    "description": "Translating Figma specs into React/Tailwind code, responsive container queries, and CSS variables.",
-    "joinUrl": "https://www.reddit.com/r/frontend/",
-    "tags": [
-      "frontend",
-      "css",
-      "react",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "design-systems-figma-component-hub-reddit-9",
