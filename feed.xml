@@ -4,10 +4,17 @@
     <title>Design Systems &amp; Figma Component Hub</title>
     <link>https://ui-ux-design-systems-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:03:53 GMT</lastBuildDate>
     <atom:link href="https://ui-ux-design-systems-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/css Cascading Style Sheets (Reddit)</title>
+      <link>https://www.reddit.com/r/css/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#design-systems-figma-component-hub-reddit-9-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:03:53 GMT</pubDate>
+      <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Modern CSS features, subgrid, cascade layers (@layer), flexbox alignment, and animation keyframes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/frontend Design Engineering (Reddit)</title>
       <link>https://www.reddit.com/r/frontend/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#design-systems-figma-component-hub-reddit-8-2026-11-25</guid>
@@ -173,13 +180,6 @@
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-forum-20261020-1-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 06:03:42 GMT</pubDate>
-      <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
-      <link>https://dev.to/t/webdev</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/ui-ux-design-systems-hub/#ui-ux-design-systems-hub-forum-20261020-1-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 06:48:01 GMT</pubDate>
       <description>Newly verified community added to Design Systems &amp; Figma Component Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
     </item>
   </channel>
